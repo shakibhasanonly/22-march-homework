@@ -1,0 +1,17 @@
+h5{
+  text-align: center;
+}
+.ttf{
+  text-align: left;
+}
+.tt{
+  text-align: right;
+}
+div{
+ border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 130px;
+  text-align: justify;
+} 
+}
